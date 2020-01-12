@@ -1,0 +1,14 @@
+{
+  "name": "pizzaitalia",
+  "version": "1.0.0",
+  "description": "A pizza store landingpage created in order to practice my Bootstrap",
+  "main": "index.js",
+  "scripts": {
+    "compile:sass": "node-sass sass/main.scss css/style.css -w"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "node-sass": "^4.13.0"
+  }
+}
